@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#.projects\\first_project\\Arrayes Test\\Arrayes Test\\Arrayes Test.csproj": {}
+    "D:\\C#_github\\Check Repeating in Array\\Arrayes Test\\Arrayes Test.csproj": {}
   },
   "projects": {
-    "D:\\C#.projects\\first_project\\Arrayes Test\\Arrayes Test\\Arrayes Test.csproj": {
+    "D:\\C#_github\\Check Repeating in Array\\Arrayes Test\\Arrayes Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#.projects\\first_project\\Arrayes Test\\Arrayes Test\\Arrayes Test.csproj",
+        "projectUniqueName": "D:\\C#_github\\Check Repeating in Array\\Arrayes Test\\Arrayes Test.csproj",
         "projectName": "Arrayes Test",
-        "projectPath": "D:\\C#.projects\\first_project\\Arrayes Test\\Arrayes Test\\Arrayes Test.csproj",
+        "projectPath": "D:\\C#_github\\Check Repeating in Array\\Arrayes Test\\Arrayes Test.csproj",
         "packagesPath": "C:\\Users\\elhadidy lap\\.nuget\\packages\\",
-        "outputPath": "D:\\C#.projects\\first_project\\Arrayes Test\\Arrayes Test\\obj\\",
+        "outputPath": "D:\\C#_github\\Check Repeating in Array\\Arrayes Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\elhadidy lap\\AppData\\Roaming\\NuGet\\NuGet.Config",
