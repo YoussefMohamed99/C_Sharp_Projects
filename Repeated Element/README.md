@@ -1,0 +1,1 @@
+this Program search about repeted elements in array that you insert .
