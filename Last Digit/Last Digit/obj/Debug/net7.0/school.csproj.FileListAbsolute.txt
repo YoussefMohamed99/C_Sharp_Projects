@@ -1,0 +1,15 @@
+D:\C#.projects\first_project\school\school\bin\Debug\net7.0\school.exe
+D:\C#.projects\first_project\school\school\bin\Debug\net7.0\school.deps.json
+D:\C#.projects\first_project\school\school\bin\Debug\net7.0\school.runtimeconfig.json
+D:\C#.projects\first_project\school\school\bin\Debug\net7.0\school.dll
+D:\C#.projects\first_project\school\school\bin\Debug\net7.0\school.pdb
+D:\C#.projects\first_project\school\school\obj\Debug\net7.0\school.csproj.AssemblyReference.cache
+D:\C#.projects\first_project\school\school\obj\Debug\net7.0\school.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#.projects\first_project\school\school\obj\Debug\net7.0\school.AssemblyInfoInputs.cache
+D:\C#.projects\first_project\school\school\obj\Debug\net7.0\school.AssemblyInfo.cs
+D:\C#.projects\first_project\school\school\obj\Debug\net7.0\school.csproj.CoreCompileInputs.cache
+D:\C#.projects\first_project\school\school\obj\Debug\net7.0\school.dll
+D:\C#.projects\first_project\school\school\obj\Debug\net7.0\refint\school.dll
+D:\C#.projects\first_project\school\school\obj\Debug\net7.0\school.pdb
+D:\C#.projects\first_project\school\school\obj\Debug\net7.0\school.genruntimeconfig.cache
+D:\C#.projects\first_project\school\school\obj\Debug\net7.0\ref\school.dll
